@@ -18,4 +18,5 @@ The process starts with understanding what users like and dislike about the curr
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/ed6c0c0c-290c-4872-b3d7-701571ae19e9)
 
