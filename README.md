@@ -1,4 +1,4 @@
-# RESPONSIVE DESIGN IMPLEMENTATION
+# MOBILE APP REDESIGN
 **COMPANY**: CODTECH IT SOLUTIONS PVT.LTD
 
 **NAME**: R.DHANUSH KUMAR
@@ -12,9 +12,9 @@
 **MENTOR NAME**: Neela Santhosh Kumar
 
 # DESCRIPTION :
-A responsive design implementation for a bakery shop website ensures that the site functions and looks great across all devices, whether it’s being accessed on a desktop, tablet, or smartphone. In today’s digital world, it's crucial for businesses, including local bakeries, to offer an optimal browsing experience to customers, regardless of the device they use. A responsive bakery website is more than just aesthetically pleasing; it ensures that customers can easily navigate the site, find the information they need, and even place orders, all while having an effortless experience on any screen size.
+Redesigning a mobile app, such as Instagram, in Figma is all about making the app look and feel better while improving how users interact with it. Figma is a popular design tool that lets designers create, collaborate, and prototype the app in a way that is both efficient and flexible. Instagram, known for its clean, visual design, is all about showcasing user-generated content like photos and videos. So, when redesigning the app, the goal is to enhance its user experience (UX), update its look, and make sure it remains as easy and enjoyable to use as possible.
 
-For a bakery shop, the design elements need to be inviting, warm, and aligned with the bakery’s brand. The first step in implementing responsive design is to ensure the layout adapts fluidly to the screen size. This means that elements such as the menu, images, and text automatically adjust to fit smaller screens on mobile phones or larger displays on desktops. For example, on a larger screen, a bakery might show multiple images of its delicious cakes, pastries, and breads, with text descriptions beside them. On smaller screens, however, these images might stack on top of each other with the text below, ensuring a clean and readable design without any awkward scrolling or zooming.
+The process starts with understanding what users like and dislike about the current app. This can come from user feedback, app analytics, or just keeping up with the latest design trends. Maybe the navigation feels clunky, or some features aren't as easy to access as they could be. These are the kinds of problems that need solving. In the case of Instagram, users might want a more streamlined way to navigate between the feed, stories, and messages, or maybe they want the app to feel more immersive without distractions.
 
 # OUTPUT :
 
