@@ -19,3 +19,4 @@ The user interface (UI) of a Netflix clone is designed to be sleek, modern, and 
 
 #OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/e88bc504-338d-4169-b08b-58b7397b9558)
